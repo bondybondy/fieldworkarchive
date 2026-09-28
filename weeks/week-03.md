@@ -10,11 +10,11 @@ permalink: /weeks/week-03/
 > 請保留具體的現場、材料、語句或身體感受。
 ## TRACE｜痕跡
 第二個工作坊
-![圖片說明]({{ '/assets/images/fieldwork-w3-1.HEIC' | relative_url }})
+![圖片說明]({{ '/assets/images/fieldwork-w3-1.png' | relative_url }})
 把圖中的測量工具掛到胸前，隨著身體的移動，架子上的簽字筆會隨著身體擺動在白紙上產生移動的紀錄。
 ![圖片說明]({{ '/assets/images/fieldwork-w3-2.PNG' | relative_url }})
 我們這組的路徑是從上課教室門口開始到人社一館的電梯，一個閃電狀的路徑，但APP上的路徑有可能因為路徑太短或是室內雜訊太多，導致一直亂跑，但有呼應到紙上的紀錄。
-![圖片說明]({{ '/assets/images/fieldwork-w3-1.heic' | relative_url }})
+![圖片說明]({{ '/assets/images/fieldwork-w3-3.png' | relative_url }})
 這四個為我們這組四個人的紀錄結果，這四個紀錄版本雖然都是在同一個路徑上，但因為每個人的步伐，速度與節奏，產生了獨一無二的檔案。
 ## FRICTION｜摩擦
 
