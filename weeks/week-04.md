@@ -9,11 +9,11 @@ permalink: /weeks/week-04/
 
 ## TRACE｜痕跡
 ![圖片說明]({{ '/assets/images/slow_violence.png' | relative_url }})
-![圖片說明]({{ '/assets/images/slow_violence(1).png' | relative_url }})
+![圖片說明]({{ '/assets/images/slow_violence-1.png' | relative_url }})
 第一個活動是觀察校園裡的慢暴力，每一組會抽不同的觀察對象跟觀察方式，我們這組抽到觀看的對象是植物，觀看的方式是誰受益。
 其實感覺學校中的植物都大同小異，最後我們選人社一館前面的花園。除了實際觀察到的花花草草。還要觀察無法實際觀察到的關係，像是校園裡誰受益，為甚麼受益，或是在時間尺度上的關係(從哪裡來，之後去了哪裡等)，也分別帶到Murphy＋Nixon的文章。
-![圖片說明]({{ '/assets/images/slow_violence(2).png' | relative_url }})
-![圖片說明]({{ '/assets/images/slow_violence(3).png' | relative_url }})
+![圖片說明]({{ '/assets/images/slow_violence-2.png' | relative_url }})
+![圖片說明]({{ '/assets/images/slow_violence-3.png' | relative_url }})
 第二個活動是製作一個自己的精油香水，老師準備了22種不同味道的香水。
 以下是我的紀錄(猜測):
 22 前 糖果？
