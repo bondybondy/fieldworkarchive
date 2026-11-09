@@ -6,7 +6,7 @@ permalink: /weeks/week-07/
 <span class="label">WEEK 07</span>
 
 # 期中製作實驗室
-
+我的酵母培育大失敗:(
 > 請保留具體的現場、材料、語句或身體感受。
 
 ## TRACE｜痕跡
